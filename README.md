@@ -1,2 +1,2 @@
 # evi
-A Real Time Emotion based Music Recommendation Application
+A Real Time Emotion based Music Recommendation Web Application
